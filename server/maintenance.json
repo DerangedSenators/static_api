@@ -1,5 +1,5 @@
 {
-	"scheduled": true,
+	"scheduled": false,
 	"information": {
 		"start_from": "2200",
 		"end_at": "0800",
